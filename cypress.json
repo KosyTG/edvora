@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://testing-assessment-foh15kew9-edvora.vercel.app",
+    "defaultCommandTimeout": 8000,
+    "pageLoadTimeout": 20000,
+   "viewportHeight": 800,
+   "viewportWidth": 1500,
+   "watchForFileChanges":false
+
+   }
+   
